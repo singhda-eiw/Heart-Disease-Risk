@@ -15,7 +15,6 @@
 | HeyWhale分析项目 |https://www.heywhale.com/org-portal/4C2026/project/cSlRhbutQLKFGPEn6i24uCp0uL5bO3gGolP9lO7szaI/share
 |
 
-> 🔐 HeyWhale访问密码：123456789
 
 ## 🎯 研究目标
 
